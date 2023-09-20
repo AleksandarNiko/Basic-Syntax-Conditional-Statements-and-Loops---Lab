@@ -1,0 +1,14 @@
+D:\c# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Back In 30 Minutes\bin\Debug\netcoreapp3.1\Back In 30 Minutes.exe
+D:\c# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Back In 30 Minutes\bin\Debug\netcoreapp3.1\Back In 30 Minutes.deps.json
+D:\c# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Back In 30 Minutes\bin\Debug\netcoreapp3.1\Back In 30 Minutes.runtimeconfig.json
+D:\c# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Back In 30 Minutes\bin\Debug\netcoreapp3.1\Back In 30 Minutes.runtimeconfig.dev.json
+D:\c# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Back In 30 Minutes\bin\Debug\netcoreapp3.1\Back In 30 Minutes.dll
+D:\c# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Back In 30 Minutes\bin\Debug\netcoreapp3.1\Back In 30 Minutes.pdb
+D:\c# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Back In 30 Minutes\obj\Debug\netcoreapp3.1\Back In 30 Minutes.csproj.AssemblyReference.cache
+D:\c# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Back In 30 Minutes\obj\Debug\netcoreapp3.1\Back In 30 Minutes.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Back In 30 Minutes\obj\Debug\netcoreapp3.1\Back In 30 Minutes.AssemblyInfoInputs.cache
+D:\c# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Back In 30 Minutes\obj\Debug\netcoreapp3.1\Back In 30 Minutes.AssemblyInfo.cs
+D:\c# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Back In 30 Minutes\obj\Debug\netcoreapp3.1\Back In 30 Minutes.csproj.CoreCompileInputs.cache
+D:\c# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Back In 30 Minutes\obj\Debug\netcoreapp3.1\Back In 30 Minutes.dll
+D:\c# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Back In 30 Minutes\obj\Debug\netcoreapp3.1\Back In 30 Minutes.pdb
+D:\c# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Back In 30 Minutes\obj\Debug\netcoreapp3.1\Back In 30 Minutes.genruntimeconfig.cache
